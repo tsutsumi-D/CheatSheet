@@ -1,5 +1,8 @@
 using System;
-//git push sheck
+//git commit -a
+//git status
+//git push origin master
+
 
 class Program
 {
